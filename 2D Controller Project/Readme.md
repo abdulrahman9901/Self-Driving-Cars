@@ -93,7 +93,7 @@ The X axis for all four plots in the controls feedback is the in-game time, in s
 Brake Output            |  Forward Speed
 :-------------------------:|:-------------------------:
 ![control panel(Brake)](controller_output/brake_output.png "Brake Output") |   ![control panel(Speed)](controller_output/forward_speed.png "Forward Speed")
- *The speed kept so less than or equal to the desired spped so there was no need for brakes.* | *The desired speed in yellow & controller's speed results in blue.*
+ *The speed kept less than or equal to the desired speed so there was no need for brakes.* | *The desired speed in yellow & controller's speed results in blue.*
 
 
 Steering Output             |  Throttle Output
