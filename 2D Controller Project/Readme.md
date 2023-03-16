@@ -95,9 +95,13 @@ Brake Output            |  Forward Speed
 ![control panel(Brake)](controller_output/brake_output.png "Brake Output") |   ![control panel(Speed)](controller_output/forward_speed.png "Forward Speed")
  *The speed kept so less than or equal to the desired spped so there was no need for brakes.* | *The desired speed in yellow & controller's speed results in blue.*
 
+<center>
+
 Steering Output             |  Throttle Output
 :-------------------------:|:-------------------------:
 ![control panel(Steering)](controller_output/steer_output.png "Steering Output")   |  ![control panel(Throttle)](controller_output/throttle_output.png "Throttle Output")
+
+</center>
 
 In progress             |  At the finish line
 :-------------------------:|:-------------------------:
@@ -105,11 +109,12 @@ In progress             |  At the finish line
 
 </center>
 
-## The Controller In Action'
+## The Controller In Action
+
+<br>
 
 <center>
 
 ![Record for the controller in action](media/cover.gif)
 
 </center>
-
