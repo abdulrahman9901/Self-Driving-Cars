@@ -96,9 +96,9 @@ Brake Output            |  Forward Speed
  *The speed kept less than or equal to the desired speed so there was no need for brakes.* | *The desired speed in yellow & controller's speed results in blue.*
 
 
-Steering Output             |  Throttle Output
+Steering Output |  Throttle Output
 :-------------------------:|:-------------------------:
-![control panel(Steering)](controller_output/steer_output.png "Steering Output")   |  ![control panel(Throttle)](controller_output/throttle_output.png "Throttle Output")
+![control panel(Steering)](controller_output/steer_output.png "Steering Output") <img width=200/> |  ![control panel(Throttle)](controller_output/throttle_output.png "Throttle Output") <img width=200/>
 
 
 In progress             |  At the finish line
