@@ -88,26 +88,28 @@ The X axis for all four plots in the controls feedback is the in-game time, in s
 
 ## Output Screenshots
 
-![control panel(Brake)](controller_output/brake_output.png "Brake Output")
+<center>
 
-*The speed kept less or equal to desired so there was no need for brakes.*
+Brake Output            |  Forward Speed
+:-------------------------:|:-------------------------:
+![control panel(Brake)](controller_output/brake_output.png "Brake Output") |   ![control panel(Speed)](controller_output/forward_speed.png "Forward Speed")
+ *The speed kept so less than or equal to the desired spped so there was no need for brakes.* | *The desired speed in yellow & controller's speed results in blue.*
 
-![control panel(Speed)](controller_output/forward_speed.png "Forward Speed")
+Steering Output             |  Throttle Output
+:-------------------------:|:-------------------------:
+![control panel(Steering)](controller_output/steer_output.png "Steering Output")   |  ![control panel(Throttle)](controller_output/throttle_output.png "Throttle Output")
 
-*The desired speed is in yellow and our controller results are in blue.*
+In progress             |  At the finish line
+:-------------------------:|:-------------------------:
+![In progress](media/sdc.jpg "In progress") *The image shows the controller operation in progress.* |  ![At the finish line](controller_output/trajectory.png "At the finish line") *The image shows the controller operation after completion.*
 
-![control panel(Steering)](controller_output/steer_output.png "Steering Output")
+</center>
 
-![control panel(Throttle)](controller_output/throttle_output.png "Throttle Output")
+## The Controller In Action'
 
-![In progress](media/sdc.jpg "In progress")
-
-*The image shows the controller operation in progress.*
-
-![At the finish line](controller_output/trajectory.png "At the finish line")
-
-*The image shows the controller operation after completion.*
-
-## The Controller In Action
+<center>
 
 ![Record for the controller in action](media/cover.gif)
+
+</center>
+
